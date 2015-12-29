@@ -8,8 +8,8 @@ Permite crear lienzos para dibujar, edición básica de imágenes, y realizar gr
 
 Para el correcto funcionamiento de la captura de imagen, se necesita los siguientes paquetes:
 
-JMF: [](http://www.oracle.com/technetwork/java/javase/download-142937.html)
+JMF: [http://www.oracle.com/technetwork/java/javase/download-142937.html](http://www.oracle.com/technetwork/java/javase/download-142937.html)
 
-JDK 32 bits: [](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp)
+JDK 32 bits: [http://www.oracle.com/technetwork/java/javase/download-142937.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp)
 
 Para ejecutar el programa en Windows, basta con hacer doble click en el fichero ejecutable .jar
