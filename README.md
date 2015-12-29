@@ -4,7 +4,7 @@ Este software fue creado en la asignatura de Sistemas Multimedia en la ETSIIT, p
 
 Permite crear lienzos para dibujar, edición básica de imágenes, y realizar grabación de sonido e imagen. 
 
-![Pantalla principal](http://i628.photobucket.com/albums/uu6/romilgildo/inicio_zpsa8tmox36.png)
+![Pantalla principal](http://i628.photobucket.com/albums/uu6/romilgildo/inicio_zpsa8tmox36.png~original)
 
 Para el correcto funcionamiento de la captura de imagen, se necesita los siguientes paquetes:
 
